@@ -1,0 +1,64 @@
+{
+  "name": "nest-winston-module",
+  "version": "0.0.4",
+  "license": "MIT",
+  "description": "A Nest module wrapper for winston, provides multi type of loggers",
+  "keywords": [
+    "nestjs",
+    "winston",
+    "logger",
+    "graphql"
+  ],
+  "author": "kukumoon <https://github.com/kukumoon>",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "/build"
+  ],
+  "scripts": {
+    "lint": "eslint src/**/*.ts --ignore-pattern src/**/*.spec.ts",
+    "test": "mocha --config .mocharc.json",
+    "prebuild": "rimraf build",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.35",
+    "cli-color": "^2.0.0",
+    "dayjs": "^1.10.4",
+    "fast-safe-stringify": "^2.0.7"
+  },
+  "devDependencies": {
+    "@nestjs/common": "^7.6.15",
+    "@nestjs/core": "^7.6.15",
+    "@nestjs/platform-express": "^7.6.15",
+    "@nestjs/testing": "^7.6.15",
+    "@types/chai": "^4.2.15",
+    "@types/cli-color": "^2.0.0",
+    "@types/mocha": "^8.2.2",
+    "@typescript-eslint/eslint-plugin": "^4.18.0",
+    "@typescript-eslint/parser": "^4.18.0",
+    "chai": "^4.3.4",
+    "eslint": "^7.22.0",
+    "mocha": "^8.3.2",
+    "reflect-metadata": "^0.1.13",
+    "rimraf": "^3.0.2",
+    "rxjs": "^6.6.6",
+    "source-map-support": "^0.5.19",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3",
+    "winston": "^3.3.3"
+  },
+  "peerDependencies": {
+    "@nestjs/common": "^5.0.0 || ^6.6.0 || ^7.0.0",
+    "winston": "^3.0.0",
+    "dayjs": "^1.10.4"
+  },
+  "homepage": "https://github.com/kukumoon/nest-winston-module#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukumoon/nest-winston-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kukumoon/nest-winston-module/issues"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "config:base",
+    ":disablePeerDependencies",
+    ":dependencyDashboard"
+  ],
+  "packageRules": [
+    {
+      "depTypeList": [
+        "devDependencies"
+      ],
+      "rangeStrategy": "bump"
+    }
+  ],
+  "semanticCommits": "disabled"
+}
