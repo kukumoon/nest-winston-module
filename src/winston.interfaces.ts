@@ -1,4 +1,4 @@
-import { Logger, LoggerOptions } from 'winston';
+import {Logger, LoggerOptions} from 'winston';
 import { ModuleMetadata } from '@nestjs/common/interfaces';
 import { LoggerService, Type } from '@nestjs/common';
 
@@ -36,4 +36,4 @@ export interface WinstonModuleAsyncOptions
   useClass?: Type<WinstonModuleOptionsFactory>;
 }
 
-export type NestWinstonLogger = LoggerService | Logger;
+export type NestWinstonLogger = LoggerService & Logger;
