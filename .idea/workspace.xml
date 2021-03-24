@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a4240ef-c43a-49cb-a630-0d9b1698b8cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616494152286</updated>
       <workItem from="1616494153343" duration="3006000" />
-      <workItem from="1616567179241" duration="12369000" />
+      <workItem from="1616567179241" duration="12561000" />
+      <workItem from="1616580762800" duration="22000" />
     </task>
     <servers />
   </component>
@@ -77,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1616572701870">
