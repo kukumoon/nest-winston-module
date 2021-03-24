@@ -11,35 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a4240ef-c43a-49cb-a630-0d9b1698b8cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nest-winston-module.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.markdownlint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mocharc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-en.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-zh.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renovate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.classes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.interfaces.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.module.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.providers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/winston.utilities.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616494152286</updated>
       <workItem from="1616494153343" duration="3006000" />
-      <workItem from="1616567179241" duration="11548000" />
+      <workItem from="1616567179241" duration="12369000" />
     </task>
     <servers />
   </component>

@@ -8,8 +8,6 @@ cache:
 
 matrix:
   include:
-    - env: NEST_VERSION=^6
-    - env: NEST_VERSION=^5
     - env: NEST_VERSION=
 
 before_script:
