@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/kukumoon/nest-winston-module/blob/main/README-en.md">English Documentation</a>
+</p>
+
+<p align="center">
   Nestjs Winston模块，提供灵活的日志记录方式。
   
   参考自 <a href="https://github.com/gremo/nest-winston">nest-winston</a>

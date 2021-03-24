@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/kukumoon/nest-winston-module/blob/main/README-zh.md">中文文档</a>
+</p>
+
+<p align="center">
   A <a href="https://github.com/nestjs/nest">Nest</a> module wrapper for <a href="https://github.com/winstonjs/winston">winston</a> , provides multi type of loggers.
   
   Inspired by <a href="https://github.com/gremo/nest-winston">nest-winston</a>
